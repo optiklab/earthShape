@@ -12,7 +12,7 @@ How to run this project
 
 3. Download elevation data from open URL: https://dds.cr.usgs.gov/srtm/version2_1/SRTM30/
 
-To do this you may use *wget* utility if you use *nix-like operating system. For Windows I wrote another small ![application](https://github.com/optiklab/DirCopierApp) which allows to easily download all of this information. You may build and run it, or even simly run, because executable file is also ![provided](https://github.com/optiklab/DirCopierApp/tree/master/DirCopierApp/bin/Release).
+To do this you may use *wget* utility if you use *nix-like operating system. For Windows I wrote another small [application](https://github.com/optiklab/DirCopierApp) which allows to easily download all of this information. You may build and run it, or even simly run, because executable file is also [provided](https://github.com/optiklab/DirCopierApp/tree/master/DirCopierApp/bin/Release).
 
 4. After elevation files was loaded all yoou need is to put *.hdr and *.dem files into \geodata\ subfolder. Just like this:
 
