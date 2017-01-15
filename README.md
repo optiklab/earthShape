@@ -22,6 +22,7 @@ How to run this project
 
 ![](https://optiklab.github.io/blog/img/earthShape.JPG)
 
+
 5. When script is done with its work you may open project file earthShape.vcxproj in Visual Studio 2015 (Any version), compile and run by F5.
 
    Application starts to load all HDR and DEM files which can be found in \geodata\ subfolder and then draws animation.
