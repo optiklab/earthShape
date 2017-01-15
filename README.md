@@ -16,7 +16,7 @@ To do this you may use *wget* utility if you use *nix-like operating system. For
 
 4. After elevation files was loaded all yoou need is to put *.hdr and *.dem files into \geodata\ subfolder. Just like this:
 
-![](https://optiklab.github.io/blog/img/earthShape.jpg)
+![](https://optiklab.github.io/blog/img/earthShape.JPG)
 
 *.hdr file is header file, which describes content of *.dem file allowing to correct read this data.
 
