@@ -1,6 +1,8 @@
 # earthShape
 An application built with openFrameworks C++ toolkit for drawing Earth based on actual elevation data. I used quaternionLatLongExample example project which draws sphere and couple of coordinates on it with OpenGL. Instead of showing Cities my application loads actual Earth elevation data and draws it.
 
+Sure, I could build it on the plain OpenGL (and going to do so next time) but the positive part about using of openFrameworks is that it allows to add more features like meshes, other objects, and etc. pretty easily. Just check out its documentation to become familiar with it: http://openframeworks.cc/documentation/
+
 ![](https://optiklab.github.io/blog/img/earthShapeResult.jpg)
 
 How to run this project
