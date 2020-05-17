@@ -3,7 +3,7 @@ An application built with openFrameworks C++ toolkit for drawing Earth based on 
 
 Sure, I could build it on the plain OpenGL (and going to do so next time) but the positive part about using of openFrameworks is that it allows to add more features like meshes, other objects, and etc. pretty easily. Just check out its documentation to become familiar with it: http://openframeworks.cc/documentation/
 
-![](https://optiklab.github.io/blog/img/earthShapeResult.jpg)
+![](https://optiklab.github.io/img/earthShapeResult.jpg)
 
 How to run this project
 -----------------------
@@ -22,11 +22,11 @@ How to run this project
 
    You may get only few files for first test, but to show full Earth data you need to have 54 files in total. Just like this:
 
-   ![](https://optiklab.github.io/blog/img/earthShape.JPG)
+   ![](https://optiklab.github.io/img/earthShape.JPG)
 
 
 5. When script is done with its work you may open project file earthShape.vcxproj in Visual Studio 2015 (Any version), compile and run by F5.
 
    Application starts to load all HDR and DEM files which can be found in \geodata\ subfolder and then draws animation.
    
-   ![](https://optiklab.github.io/blog/img/earthShape1.jpg)
+   ![](https://optiklab.github.io/img/earthShape1.jpg)
